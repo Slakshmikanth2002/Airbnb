@@ -1,0 +1,277 @@
+#karan{
+    border: 1px solid black;
+    height: 5000px;
+}
+#navigationbar{
+    border: 1px solid black;
+    display: flex;
+    height:70px;
+}
+#icon,#para1{
+    border: 1px solid black none;
+    margin-left: 20px;
+    height: 30px;
+
+}
+#icon{
+    margin-top: 15px;
+}
+#para1{
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+#search{
+    height: 30px;
+    border-radius: 10px;
+    padding-top: 10px;
+    margin-top: 13px;
+    border: 1px solid black;
+    margin-left: 20px;
+    text-align: center;
+}
+
+
+#i2{
+    margin-left: 10px;
+}
+ 
+input{
+    border:none;    
+    width: 250px;
+    font-size: 15px;
+    font-weight: bold;
+    color: black;
+  
+}
+#aa{
+    text-decoration: none;
+color: black;
+}
+#ancher{
+    /* border: 1px solid black ; */
+    font-size: 17px;
+    text-align: center;
+    padding: 20px 15px;
+    font-family: sans-serif;
+  margin-left: 10px;
+}
+#mainancher{
+    margin-left:130px ;
+    display: flex;
+    border: 1px solid black none;
+}
+#ancher:hover{
+    border: 2px solid rgb(112, 111, 111);
+    border-right-style: none;
+    border-left-style: none;
+    border-top-style: none;
+}
+#background{
+    border: 1px solid black;
+  background-color: rgba(46, 83, 37, 0.877);
+    background-image: url("https://images.contentstack.io/v3/assets/bltb428ce5d46f8efd8/blta985f7ec2e09a4d5/5f5a82101929043acbe2a97f/Hero_Discovering_Hosting_jpg.jpg");
+    background-repeat: no-repeat;
+    background-size: 1350px 1500px;
+
+}
+#maindivtion{
+    border: 1px solid black;
+    height: 2850px;
+}
+#lo{
+    border: 1px solid black none;
+    display: flex;
+    margin-top: 80px;
+}
+
+#location{
+    margin-top: 7px;
+    margin-left: 60px;
+}
+#gu{
+    font-family: sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+#discover{
+    margin-left: 60px;
+    font-family: sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+}
+#le{
+    font-size: 20px;
+    font-weight: normal;
+}
+#art{
+    margin-top: 40px;
+    font-size: 20px;
+    font-weight: normal;
+}
+#centerbar{
+    border: 1px solid black;
+    height: 2300px;
+    width: 1200px;
+    margin-left: 70px;
+    background-color: aliceblue;
+    margin-top: 70px;
+    border-radius: 10px;
+}
+#ex{
+    margin-left: 40px;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 40px;
+}
+#first,#first1{
+    display: flex;
+    margin-top: 30px;
+}
+
+#first1{
+    margin-top: 50px;
+}
+#borline{
+    border: 1px solid rgb(187, 183, 183);
+    width: 1000px;
+    margin-left: 100px;
+    border-right-style: none;
+    border-left-style: none;
+    border-top-style: none;
+}
+#photo1,#photo2,#photo3,#photo4,#photo5,#photo6,#photo7,#photo8,#photo9,#photo10,#photo11,#photo12{
+    border: 1px solid black none;
+    margin-left: 35px;
+    width: 350px;
+    border-radius: 10px;
+    height:200px ;
+}
+#photo1{
+    background-image: url("https://images.contentstack.io/v3/assets/bltb428ce5d46f8efd8/blt5724ed0dd88be3d3/5dc0bd73daa3472043dc811f/2UV408K77PP7.jpg?crop=100p,84.47p,x0,y15.52p&width=720&height=405&auto=webp");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#photo2{
+    background-image: url("https://images.contentstack.io/v3/assets/bltb428ce5d46f8efd8/blta7f3c725e07e1ce7/5dc23d3fecfa320d08af4bd4/2UV40881MH9Q6.jpg?crop=95.08p,100p,x0,y0&width=720&height=405&auto=webp");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#photo3{
+    background-image: url("https://images.contentstack.io/v3/assets/bltb428ce5d46f8efd8/blt7c354b12c14ba751/636d6725a160f90b25892e51/PJMPHOTO19Q210_TaraRice_0573_(1).jpg?crop=100p,84.47p,x0,y1.31p&width=720&height=405&auto=webp");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#second{
+   
+    display: flex;
+  
+}
+#pp1,#pp2,#pp3{
+    border: 1px solid black none ;
+    margin-left: 35px;
+    width: 350px;
+    border-radius: 10px;
+    height:150px ;
+}
+#sa{
+    text-decoration: none;
+    color: black;
+    font-family: sans-serif;
+   
+}
+#ap1{
+    font-weight: bold;
+    font-size: 18px;
+   
+}
+#ap2{
+    word-spacing: 2px;
+    line-height: 20px;
+    color: rgb(92, 91, 91);
+}
+#photo4{
+    background-image: url("https://images.contentstack.io/v3/assets/bltb428ce5d46f8efd8/blt56eba5cf1c2495e4/5dc1aa1236afcb197b621457/2UV40849WYPTX.jpg?crop=100p,84.47p,x0,y14.21p&width=720&height=405&auto=webp");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#photo5{
+    background-image: url("https://images.contentstack.io/v3/assets/bltb428ce5d46f8efd8/blt34456c0d4ac4edb4/5fab40e834f4fe13d13b7c03/1_Header_image.jpg?crop=100p,100p,x0,y0&width=720&height=405&auto=webp");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#photo6{
+    background-image: url("https://images.contentstack.io/v3/assets/bltb428ce5d46f8efd8/blt11653813834603a1/609c534c96f91e18f030c74b/385735217_C0A5992_169crop.jpg?crop=100p,100p,x0,y0&width=720&height=405&auto=webp");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#photo7{
+    background-image: url("https://images.contentstack.io/v3/assets/bltb428ce5d46f8efd8/blt7f47becb52fc0ddb/61b10ec856fefe61578d05ef/RC_Thumbnail.png?crop=100p,100p,x0,y0&width=720&height=405&auto=webp");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#photo8{
+    background-image: url("https://images.contentstack.io/v3/assets/bltb428ce5d46f8efd8/bltbb0063bb37e8c485/60e5f763db0c1e56ea479128/PJO0252_106814847_0722.jpg?crop=100p,84.47p,x0,y0&width=720&height=405&auto=webp");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#photo9{
+    background-image: url("https://images.contentstack.io/v3/assets/bltb428ce5d46f8efd8/bltc9b3618e3f2f45eb/5dc1b0e0300aca333c2531c0/2UV408URGKZ9A.jpg?crop=100p,84.47p,x0,y14.21p&width=720&height=405&auto=webp");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#photo10{
+    background-image: url("https://images.contentstack.io/v3/assets/bltb428ce5d46f8efd8/blta0b1aedfa99bfd7b/5ddd7e0c39a1a60cb1500df6/hosting_reg.jpg?crop=0.999,0.84,x0,y0.13&width=720&height=405&auto=webp");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#photo11{
+    background-image: url("https://images.contentstack.io/v3/assets/bltb428ce5d46f8efd8/blt9e4abb0016027253/5dc20952b1f6d20df3919bad/2UV40881MHWDT.jpg?crop=94.21p,100p,x0,y0&width=720&height=405&auto=webp");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#photo12{
+    background-image: url("https://images.contentstack.io/v3/assets/bltb428ce5d46f8efd8/blt605e2ec74d8c7bc9/5dc1b50c0fc08719f7a3a4d6/2UV408PIZT8_Y.jpg?crop=0.999,0.84,x0,y0.15&width=720&height=405&auto=webp");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+ #fourimages{
+    border: 1px solid black;
+} 
+#might{
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 40px;
+    margin-left: 70px;
+
+}
+#draw{
+    border: 1px solid black;
+    display: flex;
+    width: 1200px;
+    margin-left: 70px;
+}
+#photo22,#photo23,#photo24{
+    border: 1px solid black ;
+    width: 280px;
+    margin-left: 20px;
+    border-radius: 10px;
+    height:400px ;
+    
+}
+#photo21{
+    border: 1px solid black ;
+    width: 280px;
+    border-radius: 10px;
+    height:400px ;
+    margin-left: 70px;
+}
+#photo21{
+    background-image: url("https://www.airbnb.co.in/resources/hosting-homes/g/setting-up-a-successful-listing-3");
+    background-size: cover;
+}

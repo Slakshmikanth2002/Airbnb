@@ -1,0 +1,40 @@
+#karan{
+    border: 1px solid black;
+    height: 2000px;
+}
+.heading{
+    border: 1px solid black;
+    height: 80px;
+    display: flex;
+    position: sticky;
+    background-color: aliceblue;
+    top: 0px;
+}
+#i1{
+    margin-left: 30px;
+    margin-top: 20px;
+    color: rgb(243, 91, 91);
+}
+article{
+    color: rgb(243, 91, 91);
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: 25px;
+    font-family: sans-serif;
+    
+}
+#art{
+    text-decoration: none;
+}
+#search{
+    border: 1px solid black;
+    margin-left: 400px;
+    height: 30px;
+    width: 250px;
+    margin-top: 20px;
+  border-radius: 30px;
+  padding-left:15px ;
+  padding-top: 10px;
+  font-size: 15px;
+  font-family: sans-serif;
+}
